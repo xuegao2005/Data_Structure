@@ -56,7 +56,7 @@ int main()
 
 
 
-![image-20250605140013168](../assets/image-20250605140013168.png)
+![image-20250605140013168](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250605140013168.png)
 
 ![image-20250605145414113](../assets/image-20250605145414113.png)
 
