@@ -285,7 +285,7 @@ q[tt]
 
 ![image-20250710153112327](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250710153112327.png)
 
-![image-20250710153124627](../assets/image-20250710153124627.png)
+![image-20250710153124627](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250710153124627.png)
 
 ```cpp
 #include <iostream>
