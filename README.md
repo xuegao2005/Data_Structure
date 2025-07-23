@@ -211,7 +211,7 @@ else empty
 stk[tt];
 ```
 
-![image-20250605165206583](../assets/image-20250605165206583.png)
+![image-20250605165206583](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250605165206583.png)
 
 ```cpp
 #include <iostream>
