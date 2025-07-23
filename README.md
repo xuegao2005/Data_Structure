@@ -373,9 +373,9 @@ int main()
 
 # Trie树 字典树
 
-![image-20250711134101587](../assets/image-20250711134101587.png)
+![image-20250711134101587](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250711134101587.png)
 
-![image-20250711134144145](../assets/image-20250711134144145.png)
+![image-20250711134144145](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250711134144145.png)
 
 ```cpp
 #include <iostream>
@@ -440,9 +440,9 @@ int main()
 
 # 并查集
 
-![image-20250711150527059](../assets/image-20250711150527059.png)
+![image-20250711150527059](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250711150527059.png)
 
-![image-20250711152736928](../assets/image-20250711152736928.png)
+![image-20250711152736928](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250711152736928.png)
 
 ```cpp
 #include <iostream>
@@ -490,9 +490,9 @@ int main()
 
 变形
 
-![image-20250711160529291](../assets/image-20250711160529291.png)
+![image-20250711160529291](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250711160529291.png)
 
-![image-20250711170613892](../assets/image-20250711170613892.png)
+![image-20250711170613892](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250711170613892.png)
 
 ```cpp
 #include <iostream>
@@ -562,9 +562,9 @@ int main()
 
 # 堆
 
-![image-20250714112453547](../assets/image-20250714112453547.png)
+![image-20250714112453547](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250714112453547.png)
 
-![image-20250714112458048](../assets/image-20250714112458048.png)
+![image-20250714112458048](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250714112458048.png)
 
 ```cpp
 #include <iostream>
@@ -614,21 +614,21 @@ int main()
 }
 ```
 
-![image-20250714151631621](../assets/image-20250714151631621.png)
+![image-20250714151631621](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250714151631621.png)
 
-![image-20250714151649463](../assets/image-20250714151649463.png)
+![image-20250714151649463](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250714151649463.png)
 
-![image-20250714152425775](../assets/image-20250714152425775.png)
+![image-20250714152425775](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250714152425775.png)
 
-![image-20250714152804014](../assets/image-20250714152804014.png)
+![image-20250714152804014](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250714152804014.png)
 
 
 
 # 哈希表
 
-![image-20250721105307395](../assets/image-20250721105307395.png)
+![image-20250721105307395](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250721105307395.png)
 
-![image-20250721105412884](../assets/image-20250721105412884.png)
+![image-20250721105412884](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250721105412884.png)
 
 ## 拉链法
 
@@ -747,9 +747,9 @@ int main()
 
 字符串哈希方式
 
-![image-20250722104541671](../assets/image-20250722104541671.png)
+![image-20250722104541671](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250722104541671.png)
 
-![image-20250722104559830](../assets/image-20250722104559830.png)
+![image-20250722104559830](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250722104559830.png)
 
 ```cpp
 #include<iostream>
