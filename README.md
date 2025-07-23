@@ -325,7 +325,7 @@ int main()
 
 # KMP算法
 
-![image-20250710171453922](../assets/image-20250710171453922.png)
+![image-20250710171453922](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250710171453922.png)
 
 ```cpp
 #include <iostream>
