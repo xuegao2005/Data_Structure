@@ -281,7 +281,7 @@ q[tt]
 
 **求滑动窗口的最大值最小值**
 
-![image-20250710153053800](../assets/image-20250710153053800.png)
+![image-20250710153053800](https://github.com/xuegao2005/Data_Structure/blob/main/image-20250710153053800.png)
 
 ![image-20250710153112327](../assets/image-20250710153112327.png)
 
